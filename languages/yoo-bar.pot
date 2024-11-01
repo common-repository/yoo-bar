@@ -1,0 +1,386 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-05-07 17:59+0600\n"
+"PO-Revision-Date: 2023-05-07 17:59+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html;esc_html__;__\n"
+"X-Poedit-SearchPath-0: includes\n"
+"X-Poedit-SearchPath-1: class\n"
+
+#: class/admin/class-yoo-bar-admin.php:90
+#: class/admin/class-yoo-howto-use.php:118
+msgid "Documentation"
+msgstr ""
+
+#: class/admin/class-yoo-bar-admin.php:92
+msgid "Live Chat"
+msgstr ""
+
+#: class/admin/class-yoo-bar-admin.php:106 includes/class-yoo-settings.php:89
+msgid "Add New Bar"
+msgstr ""
+
+#: class/admin/class-yoo-bar-admin.php:107
+#: class/admin/class-yoo-tutorial.php:46
+msgid "Get Pro"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:45
+msgid "Getting Started"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:45
+msgid ""
+"Getting Started <span class=\"dashicons dashicons-controls-forward\"></span>"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:58
+msgid "Docs"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:59
+msgid "Demo"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:60
+msgid "Conatct Us"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:61
+msgid "Get Premium"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:69
+msgid "Version:"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:70
+msgid "A House of Notification Bar"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:74
+msgid "Thanks a lot "
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:75
+msgid "for choosing YooBar "
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:82
+msgid "How to start"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:83
+msgid ""
+"To create a new bar, click the Add Bar, then fill/write the content box  "
+"choose display and location and then click Publish button. Now look at the "
+"frontend"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:85 includes/class-yoo-settings.php:90
+msgid "Add Bar"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:92
+msgid "Background & extra"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:93
+msgid ""
+"Customize these settings to add a background color or background image,You "
+"can add sticky bar animation and hide the bar from top or footer loaction"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:99
+#: includes/metaData/fieldData/class-two-colum.php:104
+msgid "Display Settings"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:100
+msgid ""
+"From these settings, content must be selected. First select a content from "
+"the left side, then select a content from the right side, if any side choose "
+"\"none\", a column will be displayed."
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:106
+msgid "Loaction Settings"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:107
+msgid ""
+"Where you want to display your created bar, you have to do it from these "
+"settings, if you want to see it on all pages of the entire site, then click "
+"\"Entire Site\", if you want to see it on a specific page, post, product, "
+"custom post, then from the dropdown Select, you can also display the bar "
+"based on the post type."
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:115
+msgid "Plugin Docs"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:116
+msgid ""
+"We have created full-proof documentation for you. It will help you to "
+"understand how our plugin works."
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:127
+msgid "Video Tutorials"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:129
+msgid ""
+"We've created video tutorials for each section to make the plugin easier to "
+"use"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:137
+msgid "See The videos"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:149
+msgid "Import Demo Data?"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:150
+msgid ""
+"You can import demo data if you want, you will get sample data inside the "
+"plugin folder."
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:153
+msgid "Read Documentation"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:163
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:165
+msgid "Will this plugin work on all themes?"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:166
+msgid ""
+"Yes, it will work on all kinds of themes. Use it to bring colorful moments "
+"to your site. And don’t forget to check out our premium features."
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:169
+msgid "Is there any support available for the free users?"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:170
+msgid ""
+"Both the free and pro versions bring great support from us. However Pro "
+"users will get priority support."
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:178
+msgid "Missing Any Features"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:179
+msgid ""
+"Do you need any features that we don't have in our plugin? Let us know Feel "
+"free to do a request from here"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:180
+msgid "Request Feature"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:189
+msgid "Support"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:190
+msgid ""
+"Feeling like consulting an expert? Get our live chat support. We are always "
+"ready to help you."
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:192
+msgid "Get Support"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:202
+msgid "Happy with Our Plugin?"
+msgstr ""
+
+#: class/admin/class-yoo-howto-use.php:203
+msgid ""
+"We are really grateful that you have chosen our plugin. If you like our "
+"plugin, please share your happiness by giving us a 5star rating in WordPress "
+"Org. It will delight us and will not take more than 2 minutes."
+msgstr ""
+
+#: class/admin/class-yoo-tutorial.php:46
+msgid "Get Pro version"
+msgstr ""
+
+#: includes/class-yoo-settings.php:85 includes/class-yoo-settings.php:86
+#: includes/class-yoo-settings.php:106
+msgid "Yoo Bar"
+msgstr ""
+
+#: includes/class-yoo-settings.php:87
+msgid "Parent Item:"
+msgstr ""
+
+#: includes/class-yoo-settings.php:88
+msgid "All Bars"
+msgstr ""
+
+#: includes/class-yoo-settings.php:91
+msgid "New YooBar"
+msgstr ""
+
+#: includes/class-yoo-settings.php:92
+msgid "Edit YooBar"
+msgstr ""
+
+#: includes/class-yoo-settings.php:93
+msgid "Update YooBar"
+msgstr ""
+
+#: includes/class-yoo-settings.php:94
+msgid "View YooBar"
+msgstr ""
+
+#: includes/class-yoo-settings.php:95
+msgid "View YooBars"
+msgstr ""
+
+#: includes/class-yoo-settings.php:96
+msgid "Search YooBar"
+msgstr ""
+
+#: includes/class-yoo-settings.php:97
+msgid "YooBar Not found"
+msgstr ""
+
+#: includes/class-yoo-settings.php:98
+msgid "YooBar Not found in Trash"
+msgstr ""
+
+#: includes/class-yoo-settings.php:100
+msgid "YooBar list"
+msgstr ""
+
+#: includes/class-yoo-settings.php:101
+msgid "YooBar list navigation"
+msgstr ""
+
+#: includes/class-yoo-settings.php:102
+msgid "YooBar Filter list"
+msgstr ""
+
+#: includes/class-yoo-settings.php:107
+msgid "Post Type Description"
+msgstr ""
+
+#: includes/class-yoo-settings.php:136
+msgid "Yoobar update."
+msgstr ""
+
+#: includes/class-yoo-settings.php:137
+msgid "Yoobar field updated."
+msgstr ""
+
+#: includes/class-yoo-settings.php:138
+msgid "Yoobar field deleted."
+msgstr ""
+
+#: includes/class-yoo-settings.php:139
+msgid "Yoobar updated."
+msgstr ""
+
+#: includes/class-yoo-settings.php:140
+#, php-format
+msgid "Yoobar restored to revision from %s"
+msgstr ""
+
+#: includes/class-yoo-settings.php:141
+msgid "Yoobar published."
+msgstr ""
+
+#: includes/class-yoo-settings.php:142
+msgid "Yoobar saved."
+msgstr ""
+
+#: includes/class-yoo-settings.php:143
+msgid "Yoobar submitted."
+msgstr ""
+
+#: includes/class-yoo-settings.php:145
+#, php-format
+msgid "Yoobar scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/class-yoo-settings.php:146
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: includes/class-yoo-settings.php:148
+msgid "Yoobar draft updated."
+msgstr ""
+
+#: includes/metaData/fieldData/class-news-ticker.php:196
+msgid "News ticker (Premium)"
+msgstr ""
+
+#: includes/metaData/fieldData/class-yoo-address-field.php:100
+msgid "Address Bar Section"
+msgstr ""
+
+#: includes/metaData/fieldData/class-yoo-color-data.php:150
+msgid "Background & Extra Setting"
+msgstr ""
+
+#: includes/metaData/fieldData/class-yoo-contact-form.php:99
+msgid "Popup Section (Premium)"
+msgstr ""
+
+#: includes/metaData/fieldData/class-yoo-filed-data.php:83
+msgid "Link Button Section"
+msgstr ""
+
+#: includes/metaData/fieldData/class-yoo-navbar-items.php:114
+msgid "Menu Bar (Premium)"
+msgstr ""
+
+#: includes/metaData/fieldData/class-yoo-text-carousel.php:152
+msgid "Carousel Bar (Premium)"
+msgstr ""
+
+#: includes/metaData/fieldData/class-yoo-titile-data.php:56
+msgid "Static Text Bar"
+msgstr ""
+
+#: includes/metaData/fieldData/class-yoo-typed-animation.php:128
+msgid "Typed Text (Premium)"
+msgstr ""
+
+#: includes/metaData/fieldData/class-yoobar-searchbox.php:92
+msgid "Search box Section"
+msgstr ""
+
+#: includes/metaData/fieldData/class-yoobar-shortcode-meta.php:45
+msgid "Shortcode"
+msgstr ""
+
+#: includes/metaData/fieldData/class-yoobar-social-link.php:163
+msgid "Social Link Section"
+msgstr ""
